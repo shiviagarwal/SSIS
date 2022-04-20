@@ -1,0 +1,20 @@
+Sausage Party,Conrad Vernon,3
+Kung Fu Panda 2,Jennifer Yuh Nelson,3
+Cloudy with a Chance of Meatballs 2,Cody Cameron,3
+Kung Fu Panda 3,Jennifer Yuh Nelson,3
+Cars 2,John Lasseter,3
+Minions,Pierre Coffin,3
+The Secret Life of Pets,Chris Renaud,3
+The Lego Movie,Phil Lord,3
+Finding Dory,Andrew Stanton,3
+Happy Feet Two,George Miller,3
+Madagascar 3: Europe's Most Wanted,Eric Darnell,3
+Despicable Me 2,Pierre Coffin,3
+The Smurfs,Raja Gosnell,3
+Ice Age: Collision Course,Mike Thurmeier,3
+Moana,Ron Clements,3
+Inside Out,Pete Docter,3
+Frozen,Chris Buck,3
+Ice Age: Continental Drift,Mike Thurmeier,3
+Monsters University,Dan Scanlon,3
+Zootopia,Byron Howard,3

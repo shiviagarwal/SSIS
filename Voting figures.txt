@@ -1,0 +1,383 @@
+Area,Remain,Leave,Status,Absolute Difference
+City of Edinburgh,187796,64498,Remain,123298
+Northern Ireland,440707,349442,Remain,91265
+Glasgow City,168335,84474,Remain,83861
+Lambeth,111584,30340,Remain,81244
+Wandsworth,118463,39421,Remain,79042
+Dudley,56780,118446,Leave,61666
+Hackney,83398,22868,Remain,60530
+Southwark,94293,35209,Remain,59084
+Doncaster,46922,104260,Leave,57338
+Wakefield,58877,116165,Leave,57288
+Havering,42201,96885,Leave,54684
+Brighton and Hove,100648,46027,Remain,54621
+Haringey,79991,25855,Remain,54136
+Bristol, City of,141027,87418,Remain,53609
+Islington,76420,25180,Remain,51240
+Lewisham,86955,37518,Remain,49437
+Sandwell,49004,98250,Leave,49246
+Rotherham,44115,93272,Leave,49157
+Walsall,43572,92007,Leave,48435
+Camden,71295,23838,Remain,47457
+Stoke-on-Trent,36027,81563,Leave,45536
+Wigan,58942,104331,Leave,45389
+Barnsley,38951,83958,Leave,45007
+South Lanarkshire,102568,60024,Remain,42544
+Cornwall,140540,182665,Leave,42125
+Richmond upon Thames,75396,33410,Remain,41986
+Manchester,121823,79991,Remain,41832
+East Riding of Yorkshire,78779,120136,Leave,41357
+County Durham,113521,153877,Leave,40356
+Kingston upon Hull, City of,36709,76646,Leave,39937
+Barnet,100210,60823,Remain,39387
+Medway,49889,88997,Leave,39108
+Tower Hamlets,73011,35224,Remain,37787
+Basildon,30748,67251,Leave,36503
+North Lanarkshire,95549,59400,Remain,36149
+Thurrock,22151,57765,Leave,35614
+Cardiff,101788,67816,Remain,33972
+Liverpool,118453,85101,Remain,33352
+Bexley,47603,80886,Leave,33283
+East Lindsey,23515,56613,Leave,33098
+Tendring,25210,57447,Leave,32237
+Hammersmith and Fulham,56188,24054,Remain,32134
+North East Lincolnshire,23797,55185,Leave,31388
+Fife,106754,75466,Remain,31288
+Ealing,90024,59017,Remain,31007
+Sunderland,51930,82394,Leave,30464
+Wolverhampton,44138,73798,Leave,29660
+Westminster,53928,24268,Remain,29660
+North Lincolnshire,29947,58915,Leave,28968
+Oxford,49424,20913,Remain,28511
+King's Lynn and West Norfolk,28587,56493,Leave,27906
+Cambridge,42682,15117,Remain,27565
+East Dunbartonshire,44534,17840,Remain,26694
+Ashfield,20179,46720,Leave,26541
+Plymouth,53458,79997,Leave,26539
+Renfrewshire,57119,31010,Remain,26109
+Merton,63003,37097,Remain,25906
+East Renfrewshire,39345,13596,Remain,25749
+Shropshire,78987,104166,Leave,25179
+Tameside,43118,67829,Leave,24711
+Telford and Wrekin,32954,56649,Leave,23695
+Brent,72523,48881,Remain,23642
+Stockton-on-Tees,38433,61982,Leave,23549
+Redcar and Cleveland,24586,48128,Leave,23542
+Castle Point,14154,37691,Leave,23537
+Mansfield,16417,39927,Leave,23510
+Blackpool,21781,45146,Leave,23365
+South Holland,13074,36423,Leave,23349
+Oldham,42034,65369,Leave,23335
+Aberdeen City,63985,40729,Remain,23256
+Bolton,57589,80491,Leave,22902
+Bassetlaw,20575,43392,Leave,22817
+Arun,34193,56936,Leave,22743
+Fenland,15055,37571,Leave,22516
+Nuneaton and Bedworth,23736,46095,Leave,22359
+St Albans,54208,32237,Remain,21971
+Great Yarmouth,14284,35844,Leave,21560
+Breckland,26313,47235,Leave,20922
+Rochdale,41217,62014,Leave,20797
+Kensington and Chelsea,37601,17138,Remain,20463
+Kirklees,98485,118755,Leave,20270
+Cannock Chase,16684,36894,Leave,20210
+Herefordshire, County of,44148,64122,Leave,19974
+Thanet,26065,46037,Leave,19972
+Torbay,27935,47889,Leave,19954
+South Staffordshire,23444,43248,Leave,19804
+Kingston upon Thames,52533,32737,Remain,19796
+Waltham Forest,64156,44395,Remain,19761
+Epping Forest,28676,48176,Leave,19500
+Central Bedfordshire,69670,89134,Leave,19464
+Bradford,104575,123913,Leave,19338
+Trafford,72293,53018,Remain,19275
+Braintree,33523,52713,Leave,19190
+South Cambridgeshire,56128,37061,Remain,19067
+South Tyneside,30014,49065,Leave,19051
+Peterborough,34176,53216,Leave,19040
+Middlesbrough,21181,40177,Leave,18996
+Isle of Wight,30207,49173,Leave,18966
+Swale,28481,47388,Leave,18907
+Gibraltar,19322,823,Remain,18499
+Barking and Dagenham,27750,46130,Leave,18380
+Hartlepool,14029,32071,Leave,18042
+Perth and Kinross,49641,31614,Remain,18027
+Newcastle-under-Lyme,25477,43457,Leave,17980
+Northampton,43805,61454,Leave,17649
+York,63617,45983,Remain,17634
+Staffordshire Moorlands,21076,38684,Leave,17608
+Bolsover,12242,29730,Leave,17488
+Havant,26582,44047,Leave,17465
+Derby,51612,69043,Leave,17431
+Rochford,17510,34937,Leave,17427
+Wyre,22816,40163,Leave,17347
+New Forest,47199,64541,Leave,17342
+Stirling,33112,15787,Remain,17325
+Coventry,67967,85097,Leave,17130
+Hillingdon,58040,74982,Leave,16942
+Waveney,24356,41290,Leave,16934
+Gravesham,18876,35643,Leave,16767
+North Kesteven,25570,42183,Leave,16613
+Broxbourne,17166,33706,Leave,16540
+Bath and North East Somerset,60878,44352,Remain,16526
+East Staffordshire,22850,39266,Leave,16416
+South Kesteven,33047,49424,Leave,16377
+East Lothian,36026,19738,Remain,16288
+Portsmouth,41384,57336,Leave,15952
+Enfield,76425,60481,Remain,15944
+Dartford,19985,35870,Leave,15885
+Dover,24606,40410,Leave,15804
+Harlow,13867,29602,Leave,15735
+Maidstone,36762,52365,Leave,15603
+Boston,7430,22974,Leave,15544
+Sedgemoor,26545,41869,Leave,15324
+Amber Valley,29319,44501,Leave,15182
+Southend-on-Sea,39348,54522,Leave,15174
+North East Derbyshire,22075,37235,Leave,15160
+Wyre Forest,21240,36392,Leave,15152
+St. Helens,39322,54357,Leave,15035
+Solihull,53466,68484,Leave,15018
+Highland,70308,55349,Remain,14959
+Salford,47430,62385,Leave,14955
+Erewash,25791,40739,Leave,14948
+Shepway,22884,37729,Leave,14845
+Tamworth,13705,28424,Leave,14719
+Croydon,92913,78221,Remain,14692
+Elmbridge,45841,31162,Remain,14679
+Northumberland,82022,96699,Leave,14677
+West Lothian,51560,36948,Remain,14612
+Scarborough,22999,37512,Leave,14513
+South Somerset,42527,56940,Leave,14413
+Burnley,14462,28854,Leave,14392
+Wiltshire,137258,151637,Leave,14379
+Warwick,47976,33642,Remain,14334
+Caerphilly,39178,53295,Leave,14117
+Gateshead,44429,58529,Leave,14100
+Poole,35741,49707,Leave,13966
+Newark and Sherwood,26571,40516,Leave,13945
+Aberdeenshire,76445,62516,Remain,13929
+Hinckley and Bosworth,25969,39501,Leave,13532
+Ashford,28314,41472,Leave,13158
+Greenwich,65248,52117,Remain,13131
+Wokingham,55272,42229,Remain,13043
+Hyndburn,13569,26568,Leave,12999
+Winchester,42878,29886,Remain,12992
+Dundee City,39688,26697,Remain,12991
+West Lindsey,20906,33847,Leave,12941
+North Warwickshire,12569,25385,Leave,12816
+Gosport,16671,29456,Leave,12785
+Waverley,44341,31601,Remain,12740
+Wrexham,28822,41544,Leave,12722
+North West Leicestershire,22642,34969,Leave,12327
+Carlisle,23788,35895,Leave,12107
+Calderdale,46950,58975,Leave,12025
+Wychavon,32188,44201,Leave,12013
+Reading,43385,31382,Remain,12003
+Pendle,16704,28631,Leave,11927
+Kettering,21030,32877,Leave,11847
+South Derbyshire,22479,34216,Leave,11737
+Spelthorne,22474,34135,Leave,11661
+Chesterfield,22946,34478,Leave,11532
+North Norfolk,26214,37576,Leave,11362
+Redditch,17303,28579,Leave,11276
+Lichfield,26064,37214,Leave,11150
+Luton,36708,47773,Leave,11065
+Flintshire,37867,48930,Leave,11063
+South Ayrshire,36265,25241,Remain,11024
+Scottish Borders,37952,26962,Remain,10990
+Gloucester,26801,37776,Leave,10975
+Midlothian,28217,17251,Remain,10966
+Ipswich,27698,38655,Leave,10957
+South Ribble,26406,37318,Leave,10912
+Harrow,64042,53183,Remain,10859
+Falkirk,44987,34271,Remain,10716
+Blaby,22888,33583,Leave,10695
+Inverclyde,24688,14010,Remain,10678
+Rushcliffe,40522,29888,Remain,10634
+Swindon,51220,61745,Leave,10525
+West Dunbartonshire,26794,16426,Remain,10368
+Neath Port Talbot,32651,43001,Leave,10350
+Argyll and Bute,29494,19202,Remain,10292
+Vale of White Horse,43462,33192,Remain,10270
+Wellingborough,15462,25679,Leave,10217
+Redbridge,69213,59020,Remain,10193
+East Ayrshire,33891,23942,Remain,9949
+Gwynedd,35517,25665,Remain,9852
+Rother,23916,33753,Leave,9837
+Warrington,52657,62487,Leave,9830
+Pembrokeshire,29367,39155,Leave,9788
+Maldon,14529,24302,Leave,9773
+Guildford,44155,34458,Remain,9697
+Halton,27678,37327,Leave,9649
+Selby,21071,30532,Leave,9461
+Torfaen,19363,28781,Leave,9418
+Allerdale,22429,31809,Leave,9380
+Stafford,34098,43386,Leave,9288
+North Ayrshire,38394,29110,Remain,9284
+East Northamptonshire,21680,30894,Leave,9214
+Corby,11470,20611,Leave,9141
+Copeland,14419,23528,Leave,9109
+Crawley,22388,31447,Leave,9059
+Bournemouth,41473,50453,Leave,8980
+Torridge,16229,25200,Leave,8971
+East Dorset,24786,33702,Leave,8916
+Forest of Dean,21392,30251,Leave,8859
+Newport,32413,41236,Leave,8823
+Wealden,44084,52808,Leave,8724
+Chorley,27417,36098,Leave,8681
+Rhondda Cynon Taf,53973,62590,Leave,8617
+Brentwood,19077,27627,Leave,8550
+Daventry,20443,28938,Leave,8495
+South Gloucestershire,74928,83405,Leave,8477
+Huntingdonshire,45729,54198,Leave,8469
+Stevenage,18659,27126,Leave,8467
+Weymouth and Portland,14903,23352,Leave,8449
+Tonbridge and Malling,32792,41229,Leave,8437
+South Oxfordshire,46245,37865,Remain,8380
+Blaenau Gwent,13215,21587,Leave,8372
+Forest Heath,9791,18160,Leave,8369
+Bury,46354,54674,Leave,8320
+Norwich,37326,29040,Remain,8286
+Blackburn with Darwen,28522,36799,Leave,8277
+St Edmundsbury,26986,35224,Leave,8238
+Southampton,49738,57927,Leave,8189
+North Devon,24931,33100,Leave,8169
+Rossendale,15012,23169,Leave,8157
+Cheltenham,37081,28932,Remain,8149
+Rushmoor,20384,28396,Leave,8012
+Sutton,49319,57241,Leave,7922
+Eastbourne,22845,30700,Leave,7855
+Rugby,25350,33199,Leave,7849
+Carmarthenshire,47654,55381,Leave,7727
+North Tyneside,52873,60589,Leave,7716
+Barrow-in-Furness,14207,21867,Leave,7660
+Stockport,85559,77930,Remain,7629
+Gedling,30035,37542,Leave,7507
+Fareham,32210,39525,Leave,7315
+East Devon,40743,48040,Leave,7297
+Charnwood,43500,50672,Leave,7172
+Bridgend,33723,40622,Leave,6899
+Colchester,44414,51305,Leave,6891
+Stroud,40446,33618,Remain,6828
+Darlington,24172,30994,Leave,6822
+Broadland,35469,42268,Leave,6799
+North Hertfordshire,42234,35438,Remain,6796
+Woking,31007,24214,Remain,6793
+West Lancashire,28546,35323,Leave,6777
+Exeter,35270,28533,Remain,6737
+Fylde,19889,26317,Leave,6428
+Teignbridge,37949,44363,Leave,6414
+Mid Suffolk,27391,33794,Leave,6403
+Windsor and Maidenhead,44086,37706,Remain,6380
+Tunbridge Wells,35676,29320,Remain,6356
+Bromsgrove,26252,32563,Leave,6311
+Angus,32747,26511,Remain,6236
+Sevenoaks,32091,38258,Leave,6167
+Lincoln,18902,24992,Leave,6090
+Broxtowe,29672,35754,Leave,6082
+Newham,55328,49371,Remain,5957
+Powys,36762,42707,Leave,5945
+Chiltern,32241,26363,Remain,5878
+Wirral,88931,83069,Remain,5862
+Chelmsford,47545,53249,Leave,5704
+Sefton,76702,71176,Remain,5526
+Christchurch,12782,18268,Leave,5486
+Mid Sussex,46471,41057,Remain,5414
+North Somerset,59572,64976,Leave,5404
+North Dorset,18399,23802,Leave,5403
+Sheffield,130735,136018,Leave,5283
+Purbeck,11754,16966,Leave,5212
+Conwy,30147,35357,Leave,5210
+Cheshire East,107962,113163,Leave,5201
+Bracknell Forest,29888,35002,Leave,5114
+Dumfries and Galloway,43864,38803,Remain,5061
+South Northamptonshire,25853,30771,Leave,4918
+Melton,12695,17610,Leave,4915
+West Oxfordshire,35236,30435,Remain,4801
+Suffolk Coastal,37218,41966,Leave,4748
+Slough,24911,29631,Leave,4720
+Ribble Valley,15892,20550,Leave,4658
+Babergh,25309,29933,Leave,4624
+West Somerset,8566,13168,Leave,4602
+Hastings,20011,24339,Leave,4328
+Preston,30227,34518,Leave,4291
+Denbighshire,23955,28117,Leave,4162
+Hambleton,25480,29502,Leave,4022
+Worcester,25125,29114,Leave,3989
+Clackmannanshire,14691,10736,Remain,3955
+Taunton Deane,30944,34789,Leave,3845
+Basingstoke and Deane,48257,52071,Leave,3814
+Birmingham,223451,227251,Leave,3800
+Runnymede,20259,24035,Leave,3776
+Richmondshire,11945,15691,Leave,3746
+Wycombe,49261,45529,Remain,3732
+South Lakeland,34531,30800,Remain,3731
+Eastleigh,36172,39902,Leave,3730
+Merthyr Tydfil,12574,16291,Leave,3717
+Ceredigion,21711,18031,Remain,3680
+Milton Keynes,63393,67063,Leave,3670
+Worthing,28851,32515,Leave,3664
+Swansea,58307,61936,Leave,3629
+Welwyn Hatfield,27550,31060,Leave,3510
+Tewkesbury,25084,28568,Leave,3484
+Adur,16914,20315,Leave,3401
+Mole Valley,29088,25708,Remain,3380
+Ryedale,14340,17710,Leave,3370
+West Berkshire,48300,44977,Remain,3323
+Mid Devon,22400,25606,Leave,3206
+South Hams,29308,26142,Remain,3166
+Bedford,41497,44569,Leave,3072
+Orkney Islands,7189,4193,Remain,2996
+Leicester,70980,67992,Remain,2988
+Test Valley,36170,39091,Leave,2921
+Tandridge,24251,27169,Leave,2918
+Oadby and Wigston,14292,17173,Leave,2881
+Hart,30282,27513,Remain,2769
+South Norfolk,38817,41541,Leave,2724
+Cheshire West and Chester,95455,98082,Leave,2627
+Horsham,43785,41303,Remain,2482
+Stratford-on-Avon,38341,40817,Leave,2476
+Lewes,30974,28508,Remain,2466
+Hounslow,58755,56321,Remain,2434
+Leeds,194863,192474,Remain,2389
+Bromley,92398,90034,Remain,2364
+West Devon,16658,18937,Leave,2279
+City of London,3312,1087,Remain,2225
+Knowsley,34345,36558,Leave,2213
+Eden,14807,16911,Leave,2104
+Malvern Hills,23203,25294,Leave,2091
+Craven,16930,18961,Leave,2031
+Nottingham,59318,61343,Leave,2025
+Epsom and Ewell,23596,21707,Remain,1889
+Harrogate,48211,46374,Remain,1837
+Newcastle upon Tyne,65405,63598,Remain,1807
+Canterbury,40169,41879,Leave,1710
+Shetland Islands,6907,5315,Remain,1592
+Lancaster,35732,37309,Leave,1577
+Eilean Siar,8232,6671,Remain,1561
+Derbyshire Dales,22633,24095,Leave,1462
+Mendip,33427,32028,Remain,1399
+Three Rivers,25751,27097,Leave,1346
+West Dorset,31924,33267,Leave,1343
+Chichester,35011,36326,Leave,1315
+Cotswold,28015,26806,Remain,1209
+Dacorum,42542,43702,Leave,1160
+Aylesbury Vale,52877,53956,Leave,1079
+Vale of Glamorgan,36681,35628,Remain,1053
+Surrey Heath,25638,26667,Leave,1029
+Hertsmere,27593,28532,Leave,939
+East Cambridgeshire,23599,24487,Leave,888
+Harborough,27028,27850,Leave,822
+Reigate and Banstead,40181,40980,Leave,799
+East Hampshire,37346,36576,Remain,770
+Isle of Anglesey,18618,19333,Leave,715
+Uttlesford,25619,26324,Leave,705
+East Hertfordshire,42372,42994,Leave,622
+High Peak,27116,27717,Leave,601
+South Bucks,20077,20647,Leave,570
+Cherwell,40668,41168,Leave,500
+Monmouthshire,28061,27569,Remain,492
+Rutland,11353,11613,Leave,260
+Watford,23167,23419,Leave,252
+Isles of Scilly,803,621,Remain,182
+Moray,24114,23992,Remain,122

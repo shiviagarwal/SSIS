@@ -1,0 +1,19 @@
+The Gunman,Pierre Morel,20
+Jason Bourne,Paul Greengrass,20
+A Field in England,Ben Wheatley,20
+Spectre,Sam Mendes,20
+Prisoners,Denis Villeneuve,20
+Jack Reacher,Christopher McQuarrie,20
+Bridge of Spies,Steven Spielberg,20
+Skyfall,Sam Mendes,20
+Kill List,Ben Wheatley,20
+The Girl with the Dragon Tattoo,David Fincher,20
+3 Days to Kill,McG,20
+Zero Dark Thirty,Kathryn Bigelow,20
+Sicario,Denis Villeneuve,20
+Jack Reacher: Never Go Back,Edward Zwick,20
+Only God Forgives,Nicolas Winding Refn,20
+The Counsellor,Ridley Scott,20
+The Equalizer,Antoine Fuqua,20
+Mission: Impossible - Ghost Protocol,Brad Bird,20
+Momentum,Stephen Campanelli,20

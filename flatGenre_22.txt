@@ -1,0 +1,4 @@
+The Hateful Eight,Quentin Tarantino,22
+The Magnificent Seven,Antoine Fuqua,22
+Unforgiven,Lee Sang-il,22
+Django Unchained,Quentin Tarantino,22

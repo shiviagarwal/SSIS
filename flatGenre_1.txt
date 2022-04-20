@@ -1,0 +1,46 @@
+Thor,Kenneth Branagh,1
+Furious 7,James Wan,1
+John Wick,Chad Stahelski,1
+The Amazing Spider-Man,Marc Webb,1
+Man of Steel,Zack Snyder,1
+Sucker Punch,Zack Snyder,1
+The Last Stand,Kim Jee-woon,1
+Dawn of the Planet of the Apes,Matt Reeves,1
+Underworld: Blood Wars,Anna Foerster,1
+Escape Plan,Mikael Hafstrom,1
+Point Break,Ericson Core,1
+The Wolverine,James Mangold,1
+The Amazing Spider-Man 2,Marc Webb,1
+Captain America: The Winter Soldier,Anthony Russo,1
+Batman v Superman: Dawn of Justice,Zack Snyder,1
+47 Ronin,Carl Rinsch,1
+Mission: Impossible - Rogue Nation,Christopher McQuarrie,1
+Fast & Furious 6,Justin Lin,1
+Battleship,Peter Berg,1
+Man of Steel,Zack Snyder,1
+The Avengers,Joss Whedon,1
+Thor: The Dark World,Alan Taylor,1
+Iron Man 3,Shane Black,1
+The Man from U.N.C.L.E.,Guy Ritchie,1
+Captain America: Civil War,Anthony Russo,1
+Suicide Squad,David Ayer,1
+The Expendables 2,Simon West,1
+Sherlock Holmes: A Game of Shadows,Guy Ritchie,1
+Avengers: Age of Ultron,Joss Whedon,1
+X-Men: Days of Future Past,Bryan Singer,1
+Sin City: A Dame to Kill For,Robert Rodriguez,1
+Underworld: Awakening,Mans Marlind,1
+Ant-Man,Peyton Reed,1
+Godzilla,Gareth Edwards,1
+Fast Five,Justin Lin,1
+The Dark Knight Rises,Christopher Nolan,1
+Hansel & Gretel: Witch Hunters,Tommy Wirkola,1
+Olympus Has Fallen,Antoine Fuqua,1
+Kingsman: The Secret Service,Matthew Vaughn,1
+X-Men: First Class,Matthew Vaughn,1
+Deadpool,Tim Miller,1
+Mad Max: Fury Road,George Miller,1
+Doctor Strange,Scott Derrickson,1
+The Expendables 3,Patrick Hughes,1
+This Means War,McG,1
+X-Men: Apocalypse,Bryan Singer,1
